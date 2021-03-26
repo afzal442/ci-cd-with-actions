@@ -9,7 +9,7 @@ on:
     - releases/*
 
 env:
-  owner: fill_User_or_Org_name
+  owner: afzal442
   domain: github.io
 
 jobs:
