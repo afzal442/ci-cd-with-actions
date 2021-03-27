@@ -1,4 +1,4 @@
-<h1 align="center">CI/CD with GitHub Actions</h1>
+<h2 align="center">CI/CD with GitHub Actions</h2>
 <h5 align="center">@kmkumaran @kaverma</h3>
 
 <p align="center">
